@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.comment-item-container.data-v-c04fc1b8 {
+  padding: 12px 0;
+  display: flex;
+}
+.comment-item-container .info-box.data-v-c04fc1b8 {
+  margin-left: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.comment-item-container .info-box .comment-user.data-v-c04fc1b8 {
+  font-size: 12px;
+  font-weight: bolder;
+  color: #333;
+}
+.comment-item-container .info-box .comment-info.data-v-c04fc1b8 {
+  margin-top: 4px;
+  font-size: 14px;
+  color: #333;
+}
+.comment-item-container .info-box .comment-time.data-v-c04fc1b8 {
+  margin-top: 4px;
+  font-size: 12px;
+  color: #999;
+}
+

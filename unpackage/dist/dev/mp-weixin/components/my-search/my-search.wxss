@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.my-search-container.data-v-8ad86a50 {
+  display: flex;
+  align-items: center;
+}
+.my-search-bar.data-v-8ad86a50 {
+  width: 100%;
+}
+.my-search.data-v-8ad86a50 {
+  width: 100%;
+  height: 36px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 1px solid #B9B9B9;
+}
+.search-icon.data-v-8ad86a50 {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+}
+.search-icon image.data-v-8ad86a50 {
+  width: 100%;
+  height: 100%;
+}
+.placeholder.data-v-8ad86a50 {
+  font-size: 12px;
+  margin-left: 8px;
+  color: #B9B9B9;
+}
+

@@ -1,0 +1,1 @@
+<view class="data-v-45ebe224"><view class="icon-box data-v-45ebe224"><image class="icon-bg data-v-45ebe224" src="{{getRankingNum}}" mode></image><text class="{{['icon-des','data-v-45ebe224',(ranking<=3)?'rankingcolor':'']}}">{{ranking}}</text></view></view>

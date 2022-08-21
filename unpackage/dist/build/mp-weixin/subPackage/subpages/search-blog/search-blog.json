@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "文章搜索",
+  "usingComponents": {
+    "my-search": "/components/my-search/my-search",
+    "search-result": "/components/search-result/search-result",
+    "search-history": "/components/search-history/search-history",
+    "search-list": "/components/search-list/search-list"
+  }
+}

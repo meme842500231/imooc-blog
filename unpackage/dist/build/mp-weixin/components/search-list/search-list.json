@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "hot-icon": "/components/hot-icon/hot-icon"
+  },
+  "component": true
+}
